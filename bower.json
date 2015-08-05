@@ -20,7 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "darkroomjs": "git@github.com:daniel-rosiak/darkroomjs.git#master",
+    "darkroomjs": "git@github.com:MattKetmo/darkroomjs.git#master",
     "angular": "1.3.4",
     "fabric": "1.4.0"
   },
